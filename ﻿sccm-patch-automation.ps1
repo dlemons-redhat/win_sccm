@@ -1,4 +1,4 @@
-﻿sccm-patch-automation.ps1
+
 function GetEvaluationState {
    param (
        [int]$evalState
